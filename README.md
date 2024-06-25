@@ -45,7 +45,7 @@ Este projeto de API RESTful construído com Java 22 pela plataforma de ensino da
 ```
 
 # Tecnologias Utilizadas
-* Java 17: A versão LTS mais recente, com novos recursos e melhorias.
+* Java 22: A versão LTS mais recente, com novos recursos e melhorias.
 
 * Spring Boot 3: Framework que facilita a configuração e inicialização de aplicações.
 
